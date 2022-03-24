@@ -1,0 +1,25 @@
+{
+  "name": "trillopro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likeam/TrilloPro.git"
+  },
+  "author": "AR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likeam/TrilloPro/issues"
+  },
+  "homepage": "https://github.com/likeam/TrilloPro#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
